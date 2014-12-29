@@ -1,0 +1,31 @@
+html{min-height:100%;min-width:100%;background:#7F7F7F url("../images/brushed_steel.jpg") repeat left top scroll;}
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,p,blockquote,th,td,a{margin:0;padding:0;border-width:0;}
+body{font-family:Arial, Helvetica Neue, Helvetica, sans-serif;text-align:left;font-size:14px;line-height:1.2;word-wrap:break-word;text-rendering:optimizeLegibility;}
+@media screen and (-webkit-min-device-pixel-ratio:0){body{text-rendering:auto;}
+}
+.grpelem{display:inline;float:left;}
+.clearfix:after{content:"\0020";visibility:hidden;display:block;height:0;clear:both;}
+a{text-decoration:none;color:inherit;}
+#page{z-index:1;width:600px;min-height:600px;margin-left:auto;margin-right:auto;}
+#u116-3{z-index:42;width:5px;position:relative;margin-right:-10000px;margin-top:114px;left:-109px;}
+#pu97-4{width:0.01px;position:relative;margin-right:-10000px;margin-top:40px;left:20px;}
+#u97-4{z-index:30;width:559px;min-height:79px;position:relative;}
+#pu97-3{width:559px;text-align:center;color:#111111;font-size:100px;font-family:bebas-neue, sans-serif;font-weight:400;position:relative;text-shadow:1px 1px 0px #333;border-bottom:1px solid #333;}
+#u98-3{z-index:35;width:5px;position:relative;margin-right:-10000px;margin-top:49px;left:166px;}
+#u107-28{z-index:2;width:530px;min-height:415px;padding-bottom:80px;font-family:abel, sans-serif;font-weight:400;margin-left:15px;margin-top:14px;position:relative;}
+#u107-2,#u107-3{font-size:20px;text-align:center;color:#000000;}
+#u107-8,#u107-13,#u107-18,#u107-23{font-size:20px;color:#000000;}
+#u107-4,#u107-6,#u107-9,#u107-11,#u107-14,#u107-16,#u107-19,#u107-21,#u107-24{font-size:20px;color:#000000;font-weight:bold;}
+#u107-26{font-size:24px;text-align:center;color:#000000;}
+#u96{z-index:34;min-width:100%;background:-webkit-gradient(linear, center top, center bottom, from(#2F2F2F),color-stop(100%, #1B1B1B));background:-webkit-linear-gradient(top,#2F2F2F ,#1B1B1B 100%);background:-moz-linear-gradient(top,#2F2F2F ,#1B1B1B 100%);background:-ms-linear-gradient(top,#2F2F2F ,#1B1B1B 100%);background:-o-linear-gradient(top,#2F2F2F ,#1B1B1B 100%);background:linear-gradient(to bottom,#2F2F2F ,#1B1B1B 100%);-pie-background:linear-gradient(top,#2F2F2F ,#1B1B1B 100%);border-width:1px 0 0 0;border-style:solid;border-color:#5D5D5D;position:fixed;bottom:0;}
+#u105-4{z-index:38;width:346px;min-height:1px;padding-bottom:10px;text-align:center;color:#606060;font-size:12px;font-family:Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;position:relative;margin-top:10px;margin-left:auto;margin-right:auto;}
+#page .verticalspacer{clear:both;margin-bottom:-701px;}
+h5{font-size:40px;font-family:Helvetica,Trebuchet MS, Arial;color:#333;}
+h6{font-size:24px;font-family:Helvetica,Trebuchet MS, Arial;color:#444;padding-bottom:10px;}
+.reveal-modal-bg{position:fixed;height:100%;width:100%;background:#000;background:rgba(0,0,0,.8);z-index:100;display:none;top:0;left:0;}
+.reveal-modal{visibility:hidden;top:100px;left:50%;margin-left:-300px;width:520px;background:#ddd url(../images/modal-gloss.png) no-repeat -100px -80px;position:absolute;z-index:101;padding:30px 40px 34px;-moz-border-radius:10px;-webkit-border-radius:10px;border-radius:15px;-moz-box-shadow:0 0 10px rgba(0,0,0,.5);-webkit-box-shadow:0 0 10px rgba(0,0,0,.5);-box-shadow:0 0 10px rgba(0,0,0,.5);}
+.reveal-modal.small{width:200px;margin-left:-140px;}
+.reveal-modal.medium{width:400px;margin-left:-240px;}
+.reveal-modal.large{width:600px;margin-left:-340px;}
+.reveal-modal.xlarge{width:800px;margin-left:-440px;}
+.reveal-modal .close-reveal-modal{font-size:40px;line-height:.5;position:absolute;top:10px;right:10px;color:#aaa;text-shadow:0 -1px 1px rbga(0,0,0,.4);font-weight:bold;cursor:pointer;}
